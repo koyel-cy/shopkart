@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --subtitles: Syne;
+  --body-text-14: "Work Sans";
+  --font-poppins: Poppins;
+  --subtitles-size: 26px;
+  --body-text-14-size: 14px;
+  --body-text-18-size: 18px;
+  --h1-title-size: 135px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --h2-title-size: 90px;
+  --grey-scale-000: #fff;
+  --grey-scale-1000: #000;
+  --color-gray-100: #161615;
+  --grey-scale-200: #ffffff80;
+  --greyscale-400: #16161580;
+  --pimary-colour: #f07e15;
+  --color-dimgray: #626262;
+  --gap-5xs: 8px;
+  --padding-5xs: 8px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
